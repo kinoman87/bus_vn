@@ -1,4 +1,4 @@
 ﻿# Приложение расписание  движения автобусов
 
+[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/embed/P6Zf4QASyvQ)
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/P6Zf4QASyvQ" frameborder="0" allowfullscreen></iframe>
