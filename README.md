@@ -1,4 +1,5 @@
 ﻿# Приложение расписание  движения автобусов
 
-[![ScreenShot]](https://www.youtube.com/embed/P6Zf4QASyvQ)
+[![Приложение расписание автобусов](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=P6Zf4QASyvQ)
+
 
