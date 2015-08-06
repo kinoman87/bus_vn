@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.gena.bus_vn"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="22" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.gena.bus_vn.MainActivity"
+            android:label="@string/app_name"
+            android:textColor="#ffffff" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.gena.bus_vn.bus_schedule" />
+        <activity android:name="com.example.gena.bus_vn.traffic_patterns" />
+        <activity android:name="com.example.gena.bus_vn.bus_list" />
+        <activity android:name="com.example.gena.bus_vn.information" />
+        <activity android:name="com.example.gena.bus_vn.time" />
+        <activity android:name="com.example.gena.bus_vn.timetable" />
+        <activity
+            android:name="android.support.v7.widget.TestActivity"
+            android:label="RecyclerViewTestActivity" />
+    </application>
+
+</manifest>
