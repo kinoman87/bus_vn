@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\gena\android-sdks\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\gena\Documents\GitHub\bus_vn\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-a6b1bf064123f26f011a3d5452815950b46e6d77.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\bus_vn\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="C:\Users\gena\Documents\GitHub\bus_vn\app\build\intermediates\pre-dexed\debug\classes-9da8ce43e6fc633a02d77863358aa54362763604.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\bus_vn\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\gena\Documents\GitHub\bus_vn\app\build\intermediates\pre-dexed\debug\classes-b9d9737b73b2a2dd82571895d6461fd4e0b6741a.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\bus_vn\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\gena\Documents\GitHub\bus_vn\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-24dc7ed11580285278b91bee6f1941fc18837503.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\bus_vn\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\library\1.9.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a64671bd87b29748d87865871cc95147b89a2192">
+        <dex dex="C:\Users\gena\Documents\GitHub\bus_vn\app\build\intermediates\pre-dexed\debug\classes-4d1cd1fe2165c5727f8f5e14aeedc1c4a00eb521.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\bus_vn\app\build\intermediates\exploded-aar\com.github.carlonzo.stikkyheader\core\0.0.2-SNAPSHOT\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dab67e2e900a8f69592177c393ee09a704b8a0d8">
+        <dex dex="C:\Users\gena\Documents\GitHub\bus_vn\app\build\intermediates\pre-dexed\debug\classes-1a809a7a98eb5f4ab3dee07e68e12f5df3bdf582.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\gena\Documents\GitHub\bus_vn\app\build\intermediates\pre-dexed\debug\library-2.4.0-4824bbfa96f5c30a7e24d03e27bb98f21898b229.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\bus_vn\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\gena\Documents\GitHub\bus_vn\app\build\intermediates\pre-dexed\debug\classes-7389f9e46908783145b90732e6a5351ac9856cae.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\bus_vn\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\gena\Documents\GitHub\bus_vn\app\build\intermediates\pre-dexed\debug\classes-861fc85c68ce2f498e1d0539941148bdd1a0d0dc.jar" />
+    </item>
+
+</items>
